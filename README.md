@@ -1,4 +1,6 @@
-# Typing-Speed
+# Typeed
+
+Basically Typeed is short form of Typing Speed. It monitors your typing speed and gives you WPM, Accuracy.
 
 **WPM** means "Words per minute" and is based on this calculation:
 ```
